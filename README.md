@@ -1,49 +1,49 @@
-# D-ID AI Avatar
+# 🎭 D-ID AI Avatar 🤖
 
-This repository contains a Fastify-based API server that integrates with D-ID's API to create AI avatars with voice. It allows users to generate talking avatars using an image and an audio file.
+This repository contains a Fastify-based API server that integrates with D-ID's API to create AI avatars with voice. It allows users to generate talking avatars using an image and an audio file. 🎬🗣️
 
-## Features
+## 🚀 Features
 
-- Create AI avatars using images and voice recordings.
-- Polling mechanism to check avatar generation status.
-- Webhook integration for status updates.
-- Swagger documentation for API endpoints.
-- JWT authentication for security.
-- CORS support for cross-origin requests.
+- 🎨 Create AI avatars using images and voice recordings.
+- ⏳ Polling mechanism to check avatar generation status.
+- 🔔 Webhook integration for status updates.
+- 📜 Swagger documentation for API endpoints.
+- 🔒 JWT authentication for security.
+- 🌍 CORS support for cross-origin requests.
 
-## Prerequisites
+## 📋 Prerequisites
 
 Before running the application, ensure you have the following:
 
-- Node.js installed (latest LTS recommended)
-- D-ID API Key
-- Fastify framework
-- HTTPS certificates for secure communication
+- 🖥️ Node.js installed (latest LTS recommended)
+- 🔑 D-ID API Key
+- ⚡ Fastify framework
+- 🔐 HTTPS certificates for secure communication
 
-## Installation
+## 📦 Installation
 
-1. Clone the repository:
+1. 📥 Clone the repository:
    ```sh
    git clone https://github.com/yourusername/d-id-ai-avatar.git
    cd d-id-ai-avatar
    ```
-2. Install dependencies:
+2. 📌 Install dependencies:
    ```sh
    npm install
    ```
-3. Create a `.env` file and set your API key:
+3. 🔧 Create a `.env` file and set your API key:
    ```sh
    API_KEY=your_did_api_key
    ```
-4. Add your HTTPS certificates (for local testing, use self-signed certs):
+4. 🔏 Add your HTTPS certificates (for local testing, use self-signed certs):
    ```sh
    key.pem
    cert.pem
    ```
 
-## Usage
+## 🛠️ Usage
 
-### Start the Server
+### ▶️ Start the Server
 
 Run the following command to start the Fastify server:
 
@@ -53,9 +53,9 @@ npm start
 
 The server will run on `https://0.0.0.0:443`.
 
-### API Endpoints
+### 🔗 API Endpoints
 
-#### Create AI Avatar with Voice
+#### 🎤 Create AI Avatar with Voice
 
 **POST** `/standardavatar/create-avatar-with-voice`
 
@@ -79,7 +79,7 @@ The server will run on `https://0.0.0.0:443`.
 }
 ```
 
-### Swagger API Docs
+### 📖 Swagger API Docs
 
 API documentation is available at:
 
@@ -87,20 +87,20 @@ API documentation is available at:
 https://127.0.0.1:443/docs
 ```
 
-## Security
+## 🔒 Security
 
-- JWT authentication is implemented for secure access.
-- Fastify CORS is enabled to allow API calls from different origins.
+- 🛡️ JWT authentication is implemented for secure access.
+- 🌍 Fastify CORS is enabled to allow API calls from different origins.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to open issues and contribute to this project.
 
-## Author
+## 👨‍💻 Author
 
-[Imran Latif](https://github.com/Imran-Latif88)
+[Your Name](https://github.com/yourusername)
 
