@@ -106,5 +106,5 @@ Feel free to open issues and contribute to this project.
 
 ## 👨‍💻 Author
 
-[Your Name](https://github.com/yourusername)
+[Imran Latif](https://github.com/Imran-Latif88)
 
