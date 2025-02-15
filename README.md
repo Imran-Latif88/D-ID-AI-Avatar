@@ -2,6 +2,10 @@
 
 This repository contains a Fastify-based API server that integrates with D-ID's API to create AI avatars with voice. It allows users to generate talking avatars using an image and an audio file. 🎬🗣️
 
+🚀 Code of this repo is not available publically
+
+Private Repo Link:[https://github.com/Imran-Latif88/-LiveKit-AI-Voice-Assistant](https://github.com/Imran-Latif88/D-ID-Avatar-API)
+
 ## 🚀 Features
 
 - 🎨 Create AI avatars using images and voice recordings.
