@@ -28,7 +28,7 @@ Before running the application, ensure you have the following:
 
 1. 📥 Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/d-id-ai-avatar.git
+   git clone [https://github.com/yourusername/d-id-ai-avatar.git](https://github.com/Imran-Latif88/D-ID-AI-Avatar-)
    cd d-id-ai-avatar
    ```
 2. 📌 Install dependencies:
